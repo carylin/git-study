@@ -6,6 +6,7 @@ public class Main {
 		System.out.println("hello world 7!");
 		int i = 11;
 		++i;
+		System.out.println(i);
 	}
 
 }
